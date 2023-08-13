@@ -1,0 +1,1 @@
+漏洞自查PoC如下： https://github.com/hakaioffsec/navgix 该漏洞非0day，是一个路径穿越漏洞，可以直接读取nginx后台服务器文件。 有多家重点金融企业已中招，建议尽快进行自查。

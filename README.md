@@ -1,1 +1,127 @@
-![图片](./2023hvv新出漏洞.assets/640.png)
+
+
+# 8月13新增
+
+绿盟 NF 下一代防火墙 任意文件上传漏洞
+
+HIKVISION 视频编码设备接入网关 showFile.php 任意文件下载漏洞
+
+HiKVISION 综合安防管理平台 env 信息泄漏漏洞
+
+禅道 16.5 router.class.php SQL注入漏洞
+
+网神 SecGate 3600 防火墙 obj_app_upfile 任意文件上传漏洞
+
+金和OA 未授权
+
+宏景OA文件上传
+
+用友畅捷通 T注入
+
+用友时空 KSOA servletimagefield 文件 sKeyvalue 参数SQL 注入
+
+用友时空 KSOATaskRequestServlet sql注入漏洞
+
+宏景 HCM codesettree SQL 注入漏洞
+
+泛微 ShowDocsImagesql注入漏洞
+
+360 新天擎终端安全管理系统信息泄露漏洞
+
+企业微信（私有化版本）敏感信息泄露漏洞
+
+华天动力oa SQL注入
+
+用友文件服务器认证绕过
+
+广联达 Linkworks GetIMDictionarySQL 注入漏洞
+
+网御 ACM 上网行为管理系统bottomframe.cgi SQL 注入漏洞
+
+Panel loadfile 后台文件读取漏洞
+
+金盘 微信管理平台 getsysteminfo 未授权访问漏洞
+
+PigCMS action_flashUpload 任意文件上传漏洞
+
+Coremail 邮件系统未授权访问获取管理员账密
+
+Milesight VPN server.js 任意文件读取漏洞
+
+红帆 oa 注入
+
+nginx配置错误导致的路径穿越风险
+
+用友GRP-U8存在信息泄露
+
+启明星辰-4A 统一安全管控平台 getMater 信息泄漏
+
+# 8月12 新增
+
+安恒明御运维审计与风险控制系统堡垒机任意用户注册
+
+致远oa 任意文件上传
+
+致远oa rce
+
+用友移动管理系统 uploadApk.d
+
+用友时空KSOA PayBill SQL注入漏洞
+
+网神 SecSSL 3600安全接入网关系统 任意密码修改漏洞
+
+网神 SecGate 3600 防火墙 obj_app_upfile接口存在任意文件上传漏洞
+
+通达oaCVE-2023-4166
+
+通达oa_sql注入
+
+天钥网关前台SQL注入
+
+深信服应用交付系统命令执行漏洞
+
+深信服报表
+
+绿盟sas安全审计系统任意文件读取漏洞
+
+绿盟 SAS堡垒机 local_user.php 任意用户登录漏洞
+
+绿盟 SAS堡垒机 Exec 远程命令执行漏洞
+
+蓝凌-OA-RCE
+
+金和OA C6-GetSqlData.aspx SQL注入漏洞 POC
+
+汉得SRM tomcat.jsp 登录绕过漏洞
+
+海康卫视前台上传
+
+广联达oa 后台文件上传漏洞
+
+广联达oa sql注入漏洞
+
+泛微oa代码执行
+
+泛微E-Office9文件上传漏洞
+
+泛微 Weaver E-Office9 前台文件包含
+
+泛微 E-Cology 某版本 SQL注入漏洞 POC
+
+大华智慧园区综合管理平台 文件上传漏洞
+
+大华智慧园区综合管理平台 searchJson SQL注入漏洞
+
+大华智慧园区任意密码读取攻击
+
+辰信景云终端安全管理系统 login SQL注入漏洞
+
+x捷 xBR 路由器  任意文件上传漏洞
+
+wps
+
+Openfire身份认证绕过漏洞
+
+Nacos-Sync
+
+Eramba任意代码执行漏洞
