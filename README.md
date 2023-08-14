@@ -1,3 +1,13 @@
+# 8月14新增
+
+用有畅捷通T+GetStoreWarehouseByStore RCE漏洞
+
+QAX-Vpn存在x遍历及任意账号密码修改漏洞
+
+Kuboard默认口令
+
+Metabase远程代码执行漏洞
+
 
 
 # 8月13新增
