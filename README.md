@@ -8,6 +8,10 @@ Kuboard默认口令
 
 Metabase远程代码执行漏洞
 
+飞企互联 FE 业务协作平台 magePath 参数文件读取漏洞
+
+金山EDR代码执行漏洞
+
 
 
 # 8月13新增
