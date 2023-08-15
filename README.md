@@ -1,3 +1,49 @@
+# 8月15新增
+
+gitlab路径遍历读取任意文件漏洞
+
+OfficeWeb365 远程代码执行漏洞
+
+中远麒麟堡垒机SQL注入
+
+金蝶云星空 CommonFileserver 任意文件读取漏洞
+
+1Panel loadfile 后台文件读取漏洞
+
+Adobe ColdFusion 反序列化漏洞CVE-2023-29300.md
+
+金山终端安全系统V9任意文件上传漏洞
+
+新开普智慧校园系统代码执行漏洞
+
+远秋医学技能考试系统SQL注入
+
+Jeecg-Boot Freemarker 模版注入漏洞
+
+亿赛通 UploadFileFromClientServiceForClient 任意文件上传漏洞
+
+用友 NC Cloud jsinvoke 任意文件上传漏洞
+
+用友nc-cloudRCE
+
+致远OA任意管理员登录
+
+Panabit iXCache网关RCE漏洞CVE-2023-38646
+
+KubePi JwtSigKey 登陆绕过漏洞（CVE-2023-22463）
+
+泛微 HrmCareerApplyPerView SQL注入漏洞
+
+明源云 ERP ApiUpdate.ashx 文件上传漏洞
+
+金盘 微信管理平台 getsysteminfo 未授权访问漏洞
+
+深信服数据中心管理系统 XML 实体注入漏洞
+
+任我行 CRM SmsDataList SQL注入漏洞
+
+契约锁电子签章系统 RCE
+
 # 8月14新增
 
 用有畅捷通T+GetStoreWarehouseByStore RCE漏洞

