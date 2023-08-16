@@ -1,3 +1,51 @@
+## 免责声明
+
+由于传播、利用本文所提供的信息而造成的任何直接或者间接的后果及损失，均由使用者本人负责，作者不为此承担任何责任。所涉及工具来自网络，安全性自测。
+
+
+
+# 8月16新增
+
+Smart S85F 任意文件读取
+
+帆软channel序列化
+
+泛微Ecology未授权
+
+泛微Ecology OA 前台任意SQL语句执行
+
+HiKVISION 综合安防管理平台 env 信息泄漏漏洞
+
+明源云 ERP ApiUpdate.ashx 文件上传漏洞
+
+PigCMS action_flashUpload 任意文件上传漏洞
+
+Jeecg-Boot Freemarker 模版注入漏洞
+
+CODING平台idna目录存在目录遍历漏洞
+
+明源ERP存在SQL时间盲注
+
+Hytec Inter HWL-2511-SS popen.cgi命令注入漏洞
+
+蓝凌EKP系统存在未授权访问漏洞
+
+中远麒麟堡垒机tokens SQL
+
+致远OA_V8.1SP2文件上传漏洞
+
+LiveBos ShowImage.do文件imgName参数读取漏洞
+
+深信服SG上网优化管理系统catjs.php任意文件读取漏洞
+
+亿赛通 UploadFileFromClientServiceForClient 任意文件上传漏洞
+
+yakit任意文件读取
+
+百卓 Smart S85F 后台文件上传漏洞
+
+金盘 微信管理平台 getsysteminfo 未授权访问漏洞
+
 # 8月15新增
 
 gitlab路径遍历读取任意文件漏洞
